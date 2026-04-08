@@ -1,0 +1,7 @@
+{
+	"endermars21.pool_switcher.dialog.options": "Item Pool Switcher Options",
+	"endermars21.pool_switcher.dialog.change_pool": "Change Item Pool",
+	
+	"endermars21.pool_switcher.pool.fetchr.default": "Default Fetchr Item Pool",
+	"endermars21.pool_switcher.pool.fetchr.default.description": "The default item pool provided by Fetchr."
+}

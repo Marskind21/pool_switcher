@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:multi_action",
+	"title": {
+		"translate": "endermars21.pool_switcher.dialog.options",
+		"fallback": "Item Pool Switcher Options"
+	},
+	"actions": [
+		{
+			"label": {
+				"translate": "endermars21.pool_switcher.dialog.change_pool",
+				"fallback": "Change Item Pool"
+			},
+			"action": {
+				"type": "minecraft:run_command",
+				"command": "trigger endermars21.pool_switcher.change_pool set -1"
+			},
+			"width": 200
+		}
+	],
+	"after_action": "close",
+	"exit_action": {
+		"label": {
+			"translate": "gui.back"
+		}
+	},
+	"pause": false
+}

@@ -4,6 +4,7 @@
 		"translate": "endermars21.pool_switcher.dialog.options",
 		"fallback": "Item Pool Switcher Options"
 	},
+	"columns": 1,
 	"actions": [
 		{
 			"label": {
@@ -13,6 +14,17 @@
 			"action": {
 				"type": "minecraft:run_command",
 				"command": "trigger endermars21.pool_switcher.change_pool set -1"
+			},
+			"width": 200
+		},
+		{
+			"label": {
+				"translate": "endermars21.pool_switcher.dialog.bug_report",
+				"fallback": "Report Bug and give Feedback"
+			},
+			"action": {
+				"type": "minecraft:open_url",
+				"url": "https://github.com/Marskind21/pool_switcher/issues"
 			},
 			"width": 200
 		}

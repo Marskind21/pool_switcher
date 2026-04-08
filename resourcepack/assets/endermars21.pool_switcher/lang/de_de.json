@@ -1,6 +1,7 @@
 {
 	"endermars21.pool_switcher.dialog.options": "Gegenstandspooländerer Optionen",
 	"endermars21.pool_switcher.dialog.change_pool": "Gegenstandspool ändern",
+	"endermars21.pool_switcher.dialog.bug_report": "Fehler melden und Feedback geben",
 	
 	"endermars21.pool_switcher.pool.fetchr.default": "Standard-Fetchr-Gegenstandspool",
 	"endermars21.pool_switcher.pool.fetchr.default.description": "Der Standard-Gegenstandspool, der von Fetchr bereitgestellt wird.",

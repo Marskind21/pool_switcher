@@ -4,7 +4,7 @@ $dialog show @s {\
 		translate: "endermars21.pool_switcher.dialog.change_pool", \
 		fallback: "Change Item Pool", \
 	}, \
-	after_action: "close", \
+	after_action: "none", \
 	exit_action: { \
 		label: { \
 			translate: "gui.back", \

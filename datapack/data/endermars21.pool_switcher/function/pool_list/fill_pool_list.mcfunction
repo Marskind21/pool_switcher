@@ -10,6 +10,3 @@ data modify storage endermars21.pool_switcher:item_pools pools append value { \
 		fallback: "The default item pool provided by Fetchr." \
 	} \
 }
-# just for testing
-data modify storage endermars21.pool_switcher:item_pools pools append value {tags:["fetchr:default"],name:{translate:"endermars21.pool_switcher.fetchr.default"}}
-data modify storage endermars21.pool_switcher:item_pools pools append value {tags:["fetchr:default"],name:{translate:"endermars21.pool_switcher.fetchr.default"}}

@@ -3,5 +3,7 @@
 	"endermars21.pool_switcher.dialog.change_pool": "Change Item Pool",
 	
 	"endermars21.pool_switcher.pool.fetchr.default": "Default Fetchr Item Pool",
-	"endermars21.pool_switcher.pool.fetchr.default.description": "The default item pool provided by Fetchr."
+	"endermars21.pool_switcher.pool.fetchr.default.description": "The default item pool provided by Fetchr.",
+
+	"endermars21.pool_switcher.message.pool_changed": "The current item pool has been changed to %s."
 }

@@ -17,10 +17,14 @@
 			"width": 200
 		}
 	],
-	"after_action": "close",
+	"after_action": "none",
 	"exit_action": {
 		"label": {
 			"translate": "gui.back"
+		},
+		"action": {
+			"type": "minecraft:run_command",
+			"command": "trigger endermars21.pool_switcher.change_pool set -2"
 		}
 	},
 	"pause": false

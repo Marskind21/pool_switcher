@@ -45,7 +45,7 @@ data modify storage endermars21.pool_switcher:item_pools pools append value {\
 
 - `tags` specify which item pool tags are used for the item pool
 - `name` is a text component used to display the name of an item pool inside the `Change Item Pool` dialog.
-- `description` is a text component used to display a tooltip for an item pool inside the `Change Item Pool` dialog.
+- `description` is a text component used to display a tooltip for an item pool inside the `Change Item Pool` dialog. (optional)
 
 ## Resource pack
 

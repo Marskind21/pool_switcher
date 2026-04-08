@@ -16,7 +16,7 @@ data modify storage fetchr:registries categories append value {\
 }
 ```
 
-You can also add your own tag to exsisting categories by using `data modify storage fetchr:registries categories[{id:"fetchr:copper"}].tags append value "my_extension:first_pool"` in your function that is inside the `#fetchr:post_registration` function tag. \
+You can also add your own tag to exsisting categories by using a command like `data modify storage fetchr:registries categories[{id:"fetchr:copper"}].tags append value "my_extension:first_pool"` in your function that is inside the `#fetchr:post_registration` function tag. \
 (Note: This should be a different function than the one in the `#fetchr:fill_registries` function tag!)
 
 ### For this extension

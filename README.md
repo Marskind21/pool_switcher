@@ -44,3 +44,4 @@ Then you click on `Change Item Pool`, then on the item pool you want to switch t
 
 ## Currently available languages:
 - English (US)
+- German (DE)

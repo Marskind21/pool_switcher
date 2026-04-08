@@ -20,4 +20,5 @@ $tellraw @a { \
 			}, \
 		}, \
 	], \
+	fallback: "The current item pool has been changed to %s.", \
 }

@@ -6,7 +6,23 @@ For this extension to work properly, all other extensions adding their own item 
 
 ## Download and Installation
 
-Coming soon™
+You can download the data pack and the optional resouce pack on the [realease page](https://github.com/Marskind21/pool_switcher/releases). \
+The resource pack is only needed if you want to have the buttons of this pack being translated. 
+
+### Installation of the data pack
+1. Download the data pack `Pool-Switcher-<version>-DP.zip`.
+2. Place the downloaded file into the `datapacks` folder of your Fetchr world.
+3. Make sure the world isn't loaded, either by leaving the world or shutting down your Minecraft server.
+4. (Re-)Open the world or (re-)start your Minecraft server.
+5. The pack is now ready to use.
+
+### Installation of the resource pack
+
+#### Singleplayer / Client side
+1. Download the resouce pack `Pool-Switcher-<version>-RP.zip`.
+2. Place the downloaded file into your `resourcepacks` folder of your Minecraft instance.
+3. Activate the resoucepack in the settings.
+4. Now all buttons of this pack should be translated if a translation was available.
 
 ## How to use it
 
@@ -25,3 +41,6 @@ Then you click on `Change Item Pool`, then on the item pool you want to switch t
 ## Guides
 
 - [Adding your own item pool to the list](docs/adding_your_own_pool.md)
+
+## Currently available languages:
+- English (US)

@@ -49,7 +49,7 @@ data modify storage endermars21.pool_switcher:item_pools pools append value {\
 
 ## Resource pack
 
-For the resouce pack you just need to add additional translation keys for the item pool name and discription.
+For the resouce pack you just need to add additional translation keys for the category names, item pool names and item pool discriptions.
 
 Following the example it would look like this:
 
@@ -57,6 +57,7 @@ Following the example it would look like this:
 
 ```json
 {
+	"my_extension.category.armadillo": "My armadillo category",
 	"my_extension.pool.first_pool": "My first item pool",
 	"my_extension.pool.first_pool.description": "My first item pool added to Fetchr",
 

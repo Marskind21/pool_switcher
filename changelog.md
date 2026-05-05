@@ -1,3 +1,16 @@
+# Item Pool Switcher 1.0.3
+
+## Changelog:
+
+- Improved the operator status confirmation process to work correctly in multiplayer.
+- Added a function `endermars21.pool_switcher:util/check_for_datapack` for other data packs to check if this extension is present. The return value of this function is `1`.
+
+# Item Pool Switcher 1.0.2
+
+## Changelog:
+
+- You now need to confirm your operator status in multiplayer servers to be able to switch to a different item pool.
+
 # Item Pool Switcher 1.0.1
 
 ## Changelog:

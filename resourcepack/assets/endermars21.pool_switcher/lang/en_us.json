@@ -1,7 +1,11 @@
 {
+	"endermars21.pool_switcher.name": "Item Pool Switcher",
+
 	"endermars21.pool_switcher.dialog.options": "Item Pool Switcher Options",
 	"endermars21.pool_switcher.dialog.change_pool": "Change Item Pool",
 	"endermars21.pool_switcher.dialog.bug_report": "Report Bugs and give Feedback",
+
+	"endermars21.pool_switcher.dialog.confirm_op.additional_description": "This dialog is provided by the %s extension and does the same things as the dialog provided by the Fetchr data pack with the only difference being that this allows the %s data pack to directly change the item pool after confirming the operator status.",
 	
 	"endermars21.pool_switcher.pool.fetchr.default": "Default Fetchr Item Pool",
 	"endermars21.pool_switcher.pool.fetchr.default.description": "The default item pool provided by Fetchr.",

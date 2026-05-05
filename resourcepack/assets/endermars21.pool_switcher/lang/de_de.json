@@ -1,7 +1,11 @@
 {
+	"endermars21.pool_switcher.name": "Item Pool Switcher",
+
 	"endermars21.pool_switcher.dialog.options": "Gegenstandspooländerer Optionen",
 	"endermars21.pool_switcher.dialog.change_pool": "Gegenstandspool ändern",
 	"endermars21.pool_switcher.dialog.bug_report": "Fehler melden und Feedback geben",
+
+	"endermars21.pool_switcher.dialog.confirm_op.additional_description": "Dieser Dialog wird von der %s Erweiterung bereitgestellt und macht dieselben Dinge wie der Dialog, der von dem Fetchr Datenpaket bereitgestellt wird, mit dem einzigen Unterschied, dass dies dem %s Datenpaket erlaubt den Gegenstandspool direkt nach dem Bestätigen der Operatorrechte zu ändern.",
 	
 	"endermars21.pool_switcher.pool.fetchr.default": "Standard-Fetchr-Gegenstandspool",
 	"endermars21.pool_switcher.pool.fetchr.default.description": "Der Standard-Gegenstandspool, der von Fetchr bereitgestellt wird.",

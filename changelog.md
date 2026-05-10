@@ -1,3 +1,9 @@
+# Item Pool Switcher 1.0.4
+
+## Changelog:
+
+- The item pool list is now also reloaded when opening the change item pool dialog.
+
 # Item Pool Switcher 1.0.3
 
 ## Changelog:

@@ -1,4 +1,4 @@
-# clear all item pool list
+# clear item pool list
 data modify storage endermars21.pool_switcher:item_pools pools set value []
 # refill item pool list
 function #endermars21.pool_switcher:fill_pool_list

@@ -1,3 +1,6 @@
+#reload item pool list
+function endermars21.pool_switcher:pool_list/reset_pool_list
+
 #setup scores
 execute store result score $list.length endermars21.pool_switcher.counter if data storage endermars21.pool_switcher:item_pools pools[]
 scoreboard players set $iteration endermars21.pool_switcher.counter 0

@@ -1,6 +1,7 @@
 # clear item pool list
 data modify storage endermars21.pool_switcher:item_pools pools set value []
 # refill item pool list
+function endermars21.pool_switcher:pool_list/add_default_item_pool
 function #endermars21.pool_switcher:fill_pool_list
 
 # giving each entry an unique numeric id

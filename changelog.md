@@ -1,3 +1,9 @@
+# Item Pool Switcher 1.0.5
+
+## Changelog:
+
+- The default Fetchr item pool is now always the first entry in the item pool list.
+
 # Item Pool Switcher 1.0.4
 
 ## Changelog:

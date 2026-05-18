@@ -1,4 +1,4 @@
-$data modify storage fetchr:items active_tags set from storage endermars21.pool_switcher:item_pools pools[{id:$(id)}].tags
+$data modify storage fetchr:items active_tags set from storage endermars21.pool_switcher:item_pools pools[{numeric_id:$(id)}].tags
 
 function fetchr:util/apply_active_item_tags
 

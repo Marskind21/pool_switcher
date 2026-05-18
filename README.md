@@ -26,7 +26,7 @@ The resource pack is only needed if you want to have the buttons of this pack be
 
 ## How to use it
 
-You can open the Item Pool Switcher Options by pressing escape, then `Custom Options...` and then `Item Pool Switcher Options`.
+You can open the Item Pool Switcher Options by pressing escape, then `Custom Options...` and then `Item Pool Switcher Options`, or click the `Change Item Pool` sign in the lobby.
 
 ![The main menu with the "Custom Options..." button highlighted](images/main_menu.png)
 

@@ -1,3 +1,0 @@
-function fetchr:util/confirm_operator_status
-
-function endermars21.pool_switcher:util/operator_check_callback

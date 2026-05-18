@@ -37,15 +37,19 @@ Inside your function you can add your item pool to the item pool list like so:
 
 ```mcfunction
 data modify storage endermars21.pool_switcher:item_pools pools append value {\
+	id: "my_extension:first_pool",\
 	tags: [ "my_extension:first_pool" ],\
 	name: { translate: "my_extension.pool.first_pool" },\
 	description: { translate: "my_extension.pool.first_pool.description" }\
 }
 ```
 
-- `tags` specify which item pool tags are used for the item pool
+- `id` a namespaced id for other extensions to find your item pool in the item pool list.
+- `tags` specify which item pool tags are used for the item pool.
 - `name` is a text component used to display the name of an item pool inside the `Change Item Pool` dialog.
 - `description` is a text component used to display a tooltip for an item pool inside the `Change Item Pool` dialog. (optional)
+
+You can also modify or remove a item pool from the item pool list by defining a function to the `#endermars21.pool_switcher:post_pool_list_filling` function tag with a command like `data remove storage endermars21.pool_switcher:item_pools pools[{id:"fetchr:default"}]` or `data modify storage endermars21.pool_switcher:item_pools pools[{id:"fetchr:default"}].tags append value "my_extension:first_pool"`.
 
 ## Resource pack
 

@@ -1,3 +1,18 @@
+# Item Pool Switcher 1.1.0
+
+## Changelog:
+
+- Updated to Fetchr 5.3 Pre-Release 1
+- Added an sign to switch the item pool inside the Fetchr lobby.
+- Removed the Item Pool Switcher Options from the Quick Actions to make Fetchr's new Quick Actions quick again.
+- Confirming your operator status now uses Fetchr's Confirm Operator Status dialog again.
+
+## Technical Changes:
+
+- You can now define an `id` for your item pools for other extension to find your item pool in the item pool list.
+- You can now modify the item pool list after all entries have been added using the `#endermars21.pool_switcher:post_pool_list_filling` function tag.
+
+
 # Item Pool Switcher 1.0.5
 
 ## Changelog:

@@ -1,6 +1,6 @@
 # Item Pool Switcher for Fetchr
 
-This is an utility extension for [Fetchr 5.3 Beta 5 by NeunEinser](https://github.com/NeunEinser/bingo/releases/tag/5.3-beta5) to allow switching between different item pools added by other extensions.
+This is an utility extension for [Fetchr 5.3 Pre-Release 1 by NeunEinser](https://github.com/NeunEinser/bingo/releases/tag/5.3-pre1) to allow switching between different item pools added by other extensions.
 
 For this extension to work properly, all other extensions adding their own item pools have to add their item pools to the item pool list of this extension.
 
@@ -26,7 +26,7 @@ The resource pack is only needed if you want to have the buttons of this pack be
 
 ## How to use it
 
-You can open the Item Pool Switcher Options by either pressing your `Quick Actions` key bind (defaults to `G`) or pressing escape, then `Custom Options...` and then `Item Pool Switcher Options`.
+You can open the Item Pool Switcher Options by pressing escape, then `Custom Options...` and then `Item Pool Switcher Options`.
 
 ![The main menu with the "Custom Options..." button highlighted](images/main_menu.png)
 

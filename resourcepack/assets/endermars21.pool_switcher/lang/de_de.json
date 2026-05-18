@@ -10,5 +10,15 @@
 	"endermars21.pool_switcher.pool.fetchr.default": "Standard-Fetchr-Gegenstandspool",
 	"endermars21.pool_switcher.pool.fetchr.default.description": "Der Standard-Gegenstandspool, der von Fetchr bereitgestellt wird.",
 
-	"endermars21.pool_switcher.message.pool_changed": "Der aktuelle Gegenstandspool wurde auf %s geändert."
+	"endermars21.pool_switcher.message.pool_changed": "Der aktuelle Gegenstandspool wurde auf %s geändert.",
+
+	"endermars21.pool_switcher.sign.change_pool.line1": "Gegenstands-",
+	"endermars21.pool_switcher.sign.change_pool.line2": "pool",
+	"endermars21.pool_switcher.sign.change_pool.line3": "ändern",
+	"endermars21.pool_switcher.sign.change_pool.line4": "",
+
+	"endermars21.pool_switcher.book.heading": "Gegenstandspools",
+	"endermars21.pool_switcher.book.page1": "Ein Gegenstandspool ist eine Auswahl von Kategorien, die entscheiden, welche Gegenstände auf einer Bingokarte auftauchen können. (Weitere Details im Buch auf der gegenüberliegenden Seite.)",
+	"endermars21.pool_switcher.book.page2_en": "Some extensions might activate or deactivate some additional functionalities depending on the currently selected item pool.\n\nUse the sign above to chage the current item pool.",
+	"endermars21.pool_switcher.book.page2": "Manche Erweiterungen können auch zusätzliche Funktionen aktivieren oder deaktivieren, je nach dem welcher Gegenstandspool gerade ausgewählt ist.\n\nMit dem Schild oben kann der aktuelle Gegenstandspool geändert werden."
 }

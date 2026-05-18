@@ -10,5 +10,14 @@
 	"endermars21.pool_switcher.pool.fetchr.default": "Default Fetchr Item Pool",
 	"endermars21.pool_switcher.pool.fetchr.default.description": "The default item pool provided by Fetchr.",
 
-	"endermars21.pool_switcher.message.pool_changed": "The current item pool has been changed to %s."
+	"endermars21.pool_switcher.message.pool_changed": "The current item pool has been changed to %s.",
+
+	"endermars21.pool_switcher.sign.change_pool.line1": "",
+	"endermars21.pool_switcher.sign.change_pool.line2": "Change",
+	"endermars21.pool_switcher.sign.change_pool.line3": "Item Pool",
+	"endermars21.pool_switcher.sign.change_pool.line4": "",
+
+	"endermars21.pool_switcher.book.heading": "Item Pools",
+	"endermars21.pool_switcher.book.page1": "An item pool is an selection of categories which decides what items can appear on a given card. (More details in the book on the opposite side.)",
+	"endermars21.pool_switcher.book.page2": "Some extensions might activate or deactivate some additional functionalities depending on the currently selected item pool.\n\nUse the sign above to chage the current item pool."
 }

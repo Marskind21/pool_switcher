@@ -3,7 +3,7 @@ $data modify storage endermars21.pool_switcher:dialog actions append value { \
 	tooltip: $(description), \
 	action: { \
 		type: "minecraft:run_command", \
-		command: "trigger endermars21.pool_switcher.change_pool set $(id)", \
+		command: "trigger endermars21.pool_switcher.change_pool set $(numeric_id)", \
 	}, \
 	width: 200, \
 }

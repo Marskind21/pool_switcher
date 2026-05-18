@@ -1,5 +1,6 @@
 # add default item pool already provided by Fetchr to the list
 data modify storage endermars21.pool_switcher:item_pools pools append value { \
+	id: "fetchr:default", \
 	tags: [ "fetchr:default" ], \
 	name: { \
 		translate: "endermars21.pool_switcher.pool.fetchr.default", \

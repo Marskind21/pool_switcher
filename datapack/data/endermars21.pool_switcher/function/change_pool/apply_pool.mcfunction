@@ -6,14 +6,14 @@ $tellraw @a { \
 	translate: "endermars21.pool_switcher.message.pool_changed", \
 	with:[ \
 		{ \
-			nbt: "pools[{id:$(id)}].name", \
+			nbt: "pools[{numeric_id:$(id)}].name", \
 			storage: "endermars21.pool_switcher:item_pools", \
 			interpret: true, \
 			color: "green", \
 			hover_event: { \
 				action: "show_text", \
 				value: { \
-					nbt: "pools[{id:$(id)}].description", \
+					nbt: "pools[{numeric_id:$(id)}].description", \
 					storage: "endermars21.pool_switcher:item_pools", \
 					interpret: true, \
 				}, \

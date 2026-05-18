@@ -3,6 +3,7 @@ data modify storage endermars21.pool_switcher:item_pools pools set value []
 # refill item pool list
 function endermars21.pool_switcher:pool_list/add_default_item_pool
 function #endermars21.pool_switcher:fill_pool_list
+function #endermars21.pool_switcher:post_pool_list_filling
 
 # giving each entry an unique numeric id
 execute store result score $list.length endermars21.pool_switcher.counter if data storage endermars21.pool_switcher:item_pools pools[]

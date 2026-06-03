@@ -1,3 +1,10 @@
+# Item Pool Switcher 1.1.1
+
+## Changelog:
+
+- Intended Fetchr version is now Fetchr 5.3!
+- Removed Item Pool Switcher Options from the pause screen options to make Fetchr's pause screen options quicker to access.
+
 # Item Pool Switcher 1.1.0
 
 ## Changelog:

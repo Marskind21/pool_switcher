@@ -1,3 +1,10 @@
+# Item Pool Switcher 1.2.0
+
+## Changelog:
+
+- Intended Fetchr version is now Fetchr 5.3.1
+- The lobby structure `fetchr:tutorial` is now being overwritten instead of manually spawning markers, which could cause issues on multiplayer servers when the chunks aren't loaded yet.
+
 # Item Pool Switcher 1.1.1
 
 ## Changelog:

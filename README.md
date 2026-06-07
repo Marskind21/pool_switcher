@@ -1,6 +1,6 @@
 # Item Pool Switcher for Fetchr
 
-This is an utility extension for [Fetchr 5.3.1 by NeunEinser](https://github.com/NeunEinser/bingo/releases/tag/5.3.1) to allow switching between different item pools added by other extensions.
+This is an utility extension for [Fetchr 5.3.2 by NeunEinser](https://github.com/NeunEinser/bingo/releases/tag/5.3.2) to allow switching between different item pools added by other extensions.
 
 For this extension to work properly, all other extensions adding their own item pools have to add their item pools to the item pool list of this extension.
 

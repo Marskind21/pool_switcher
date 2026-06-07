@@ -1,3 +1,10 @@
+# Item Pool Switcher 1.2.1
+
+## Changelog:
+
+- Intended Fetchr version is now Fetchr 5.3.2
+- Made the lectern and sign for switching the item pool still spawn in 5.3.2, when the extension has been added to a Fetchr 5.3.2 world with an already generated lobby.
+
 # Item Pool Switcher 1.2.0
 
 ## Changelog:

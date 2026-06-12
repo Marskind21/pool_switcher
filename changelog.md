@@ -1,5 +1,9 @@
 # Item Pool Switcher 1.2.2
 
+## Changelog:
+
+- Intended version is now Fetchr 5.3.3
+
 ## Technical Changes:
 
 - Added a new funktion tag `#endermars21.pool_switcher:structure_override`

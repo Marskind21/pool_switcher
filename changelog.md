@@ -1,3 +1,12 @@
+# Item Pool Switcher 1.2.2
+
+## Technical Changes:
+
+- Added a new funktion tag `#endermars21.pool_switcher:structure_override`
+
+  This is used to override the `endermars21.pool_switcher:tutorial` structure which overrides the `fetchr:tutorial` structure.
+  If a pack overrides the `fetchr:tutorial` structure and wants to be compatable with this pack, it has to not override the normal Fetchr structure when this pack is enabled and override the structure of this pack with a structure that does support this pack via the function tag.
+
 # Item Pool Switcher 1.2.1
 
 ## Changelog:

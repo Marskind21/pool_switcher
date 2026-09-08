@@ -1,3 +1,15 @@
+# Item Pool Switcher 1.2.3
+
+## Changelog:
+
+### Compatibility
+- Fetchr 5.4 Beta 3
+- Minecraft Java 26.3 Pre-Release 2
+
+### Lobby Structure
+- Updated the `endermars21.pool_switcher:tutorial` structure to account for the changes of the `fetchr:tutorial` structure.
+
+
 # Item Pool Switcher 1.2.2
 
 ## Changelog:

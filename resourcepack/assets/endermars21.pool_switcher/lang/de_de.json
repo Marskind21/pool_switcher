@@ -19,6 +19,10 @@
 
 	"endermars21.pool_switcher.book.heading": "Gegenstandspools",
 	"endermars21.pool_switcher.book.page1": "Ein Gegenstandspool ist eine Auswahl von Kategorien, die entscheiden, welche Gegenstände auf einer Bingokarte auftauchen können. (Weitere Details im Buch auf der gegenüberliegenden Seite.)",
-	"endermars21.pool_switcher.book.page2_en": "Some extensions might activate or deactivate some additional functionalities depending on the currently selected item pool.\n\nUse the sign above to chage the current item pool.",
-	"endermars21.pool_switcher.book.page2": "Manche Erweiterungen können auch zusätzliche Funktionen aktivieren oder deaktivieren, je nach dem welcher Gegenstandspool gerade ausgewählt ist.\n\nMit dem Schild oben kann der aktuelle Gegenstandspool geändert werden."
+	"endermars21.pool_switcher.book.page2": "Manche Erweiterungen können auch zusätzliche Funktionen aktivieren oder deaktivieren, je nach dem welcher Gegenstandspool gerade ausgewählt ist.\n\nMit dem Schild oben kann der aktuelle Gegenstandspool geändert werden.",
+	"endermars21.pool_switcher.book.page3.heading": "Community and Fehlerberichte",
+	"endermars21.pool_switcher.book.page3.discord": "Discord (EnderMars21 Projects)",
+	"endermars21.pool_switcher.book.page3.discord.hover": "Mein Discord-Server, wo ich Updates zu all meinen Projekten poste.",
+	"endermars21.pool_switcher.book.page3.github": "GitHub Bugtracker",
+	"endermars21.pool_switcher.book.page3.github.hover": "Du kannst hier Fehler melden und Vorschläge hinzufügen."
 }
